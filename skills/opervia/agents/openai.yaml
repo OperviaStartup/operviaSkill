@@ -1,0 +1,4 @@
+interface:
+  display_name: "Opervia Ticket Delivery"
+  short_description: "Validate and deliver Opervia API tickets safely"
+  default_prompt: "Use $opervia to validate and deliver this Opervia ticket: $ARGUMENTS"
